@@ -12,5 +12,4 @@ Our flagship innovation includes an **on-chain managed redeemable gift code syst
 This architecture addresses limitations of traditional centralized gift systems: hacking risks, lack of transparency, and inflexibility.
 
 For full technical details, see the patent cross-reference:
-- U.S. Patent Application Serial No. 18/930,857: "Card System Utilizing On-Chain Managed Redeemable Gift Code"
-- Priority to provisionals 63/605,498 and 63/546,230 (incorporated by reference)
+- U.S. Patent Application Serial No. 18/930,857: "Card System Utilizing On-Chain Managed Redeemable Gift Code" (https://patents.google.com/patent/US20250139608A1/en)
