@@ -14,4 +14,4 @@ This architecture addresses limitations of traditional centralized gift systems:
 For full technical details, see the patent cross-reference:
 - U.S. Patent Application Serial No. 18/930,857: "Card System Utilizing On-Chain Managed Redeemable Gift Code" (https://patents.google.com/patent/US20250139608A1/en)
 
-Dakota Network is not Cryft Network and is intended for Enterpiurse Use Only
+Dakota Network is not Cryft Network and is intended for Enterprise Use Only
